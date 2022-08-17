@@ -1,0 +1,16 @@
+.table {
+    width: 1200px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: larger;
+    font-weight: 100;
+
+    tr, td, th {
+        border: 2px solid $main-black;
+    }
+
+    td, th {
+        padding: 14px 10px;
+    }
+}

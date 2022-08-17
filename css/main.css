@@ -1,0 +1,11 @@
+html {
+  height: 100hv;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}/*# sourceMappingURL=main.css.map */
